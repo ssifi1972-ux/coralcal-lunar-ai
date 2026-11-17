@@ -125,7 +125,7 @@ https://coralcal-lunar-ai.streamlit.app
 
 **One Person. One Lab. One App. One Ocean. One Future.**
 
-**SIFI BOUKHARI - The First Human to Predict Coral Feeding with Moon + Satellite + Waste**
+ The First Human to Predict Coral Feeding with Moon + Satellite + Waste**
 
 ---
 
