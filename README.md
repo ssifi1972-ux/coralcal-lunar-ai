@@ -1,25 +1,25 @@
-# 🌕 CORALCAL LUNAR AI 🪸
-### SIFI BOUKHARI - Guardian of Reefs
-### Live Satellite App - Predicts Full Moon + Sea Temperature + Salinity + Adaptive Coral Nutrition
+🌕 CORALCAL LUNAR AI 🪸
+ SIFI BOUKHARI - Guardian of Reefs
+ Live Satellite App - Predicts Full Moon + Sea Temperature + Salinity + Adaptive Coral Nutrition
 
 ---
 
-## 🚀 LIVE DEMO - CLICK HERE
-### **https://coralcal-lunar-ai.streamlit.app**
+🚀 LIVE DEMO - CLICK HERE
+ **https://coralcal-lunar-ai.streamlit.app**
 
 **The world's first app that predicts coral feeding window using moon + satellite data + adaptive nutrition.**
 
 ---
 
-## 🌕 WHAT IT DOES - 4 Predictions in 1 App
+ 🌕 WHAT IT DOES - 4 Predictions in 1 App
 
-### 1. FULL MOON PREDICTION
+ 1. FULL MOON PREDICTION
 - Calculates exact Full Moon date - 29.53 days lunar cycle - Astronomical algorithm
 - Shows: Moon Age, Illumination %, Days to Full Moon
 - Sacred Window: 2h after High Tide on Full Moon Night = Polyp Expansion 300%
 - Reproduction Window: 3 days after Full Moon = Fertilization +70%
 
-### 2. SEA TEMPERATURE - LIVE SATELLITE
+ 2. SEA TEMPERATURE - LIVE SATELLITE
 - Live data from satellite + weather API
 - Updates every hour
 - Auto-adjusts recipe:
@@ -27,7 +27,7 @@
     - 24-28°C = Optimal - Growth +440%
     - <25°C = Cold - Increase Protein + Collagen
 
-### 3. SALINITY - LIVE SATELLITE
+ 3. SALINITY - LIVE SATELLITE
 - Live data from satellite - PSU
 - Optimal: 35 PSU for corals
 - Auto-adjusts recipe:
@@ -35,7 +35,7 @@
     - <33 PSU = Low - Increase sea salt
     - 33-38 PSU = Optimal
 
-### 4. ADAPTIVE NUTRITION - CORALCAL ULTRA
+ 4. ADAPTIVE NUTRITION - CORALCAL ULTRA
 - 15 waste streams - 100% circular
 - Recipe changes automatically based on Temp + Salinity + Moon
 - Golden Ratio + Probiotic Shield = Nature 2024 validated
@@ -60,7 +60,7 @@
 
 ---
 
-## 🛰️ TECHNOLOGY - SATELLITE DATA
+ 🛰️ TECHNOLOGY - SATELLITE DATA
 
 | Data | Source | Update |
 | :--- | :--- | :--- |
@@ -74,7 +74,7 @@
 
 ---
 
-## 🧪 SCIENCE - VALIDATED
+ 🧪 SCIENCE - VALIDATED
 
 - **Patent:** DZ/P/2024/00234 - Filed
 - **Verification:** XRF + SEM + ICP-MS available on request
@@ -84,7 +84,7 @@
 
 ---
 
-## 🌊 HOW TO USE
+ 🌊 HOW TO USE
 
 1. **Open Live App:** https://coralcal-lunar-ai.streamlit.app
 2. **Enter Location:** Latitude + Longitude - Default 36.87 / 6.90
@@ -94,7 +94,7 @@
 
 ---
 
-## 🏆 AWARD - FINALIST
+
 
 **Revive Our Oceans Category**
 **15 Waste Streams → 1 Superfood → 3% Ocean Regeneration**
@@ -103,7 +103,7 @@
 
 ---
 
-## 📞 CONTACT
+ 📞 CONTACT
 
 **SIFI BOUKHARI**
 **Guardian of Reefs**
@@ -113,7 +113,7 @@
 
 ---
 
-## ⚡ WHY THIS IS DIFFERENT
+ ⚡ WHY THIS IS DIFFERENT
 
 - **Other projects:** Poster + Story
 - **This project:** Live App + Satellite + Patent + Lab + Data + Adaptive Recipe
